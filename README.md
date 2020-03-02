@@ -1,0 +1,2 @@
+# Credit-Card-Default-Machine-Learning-Model
+This dataset contains information on default payments and bill Payment bill statements of credit card clients in Taiwan from April 2005 to September 2005. Our Aim is to investigated the data, checking for data unbalancing, visualizing the features and understanding the relationship between different features and Finally we make Predictive Machine Learning Model.
